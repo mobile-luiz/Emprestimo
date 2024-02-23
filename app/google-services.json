@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "930881000480",
+    "project_id": "emprestimo-eb651",
+    "storage_bucket": "emprestimo-eb651.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930881000480:android:c75f41042ae95626769845",
+        "android_client_info": {
+          "package_name": "com.testeapp.emprestimo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeNZWMlLVEeTGqDJzyBTNRT5TNH-bnQng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
